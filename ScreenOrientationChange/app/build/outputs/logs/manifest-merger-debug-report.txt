@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/9d45e8a99738653487134ddeebf7eec1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dday/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/125647ef46a1a60fbd66a246d42e79ea/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/0c959406b3741dc86e7c1b1e190c55d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/8efda52e998b8d34466d207dd84cea84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/b3cb8a47c7f6478c96e986cabcab15e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/31ffd2032f08aa9ef44b69c2ce5b94c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/b23b977b925bde3044209a7fcf550acd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/8637a08d6db0ba3dd71caa3b18272630/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/7e5b2abaa22faf4849366377973bc5a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/3431a9e2afc800bfe0ab1c707377d58a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/c9c57ed01dcace1c1e0b443c2ec436bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/5424219ecdeb8dc6e268e6c3c8dde985/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/45b95c4f2de32fb2cd0c592f8753bbf6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/f284fc5e45bb15f3d85cd244c30bb8a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/903febf7eabde14bb27908037a3b9a34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/5c8ef8c8f56a1cd323f31a182eac0f52/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/6ae18e34ae6b7c701edad808722efa70/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/2c1bfdbbcbf528c6083889a4b88be80f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e376183719245d395eac9663d84b9d39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/915ea01c120f197ee67c3598a9d1252c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/275395a06e5d4a0f43d481bfc4e02de4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/06e40aa5490a90bdd38c3ad5483434c4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9d9d97dec756326778d61e7c84d32eb2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/01b882c81694164163aab362d4c49fb9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2844ea6fae6f4788e5d1872d209d6dd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/28e5fd231431121b5a8d3ac1b05bfe76/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dday/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/125647ef46a1a60fbd66a246d42e79ea/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dday/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/125647ef46a1a60fbd66a246d42e79ea/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/5c8ef8c8f56a1cd323f31a182eac0f52/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/5c8ef8c8f56a1cd323f31a182eac0f52/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/6ae18e34ae6b7c701edad808722efa70/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/6ae18e34ae6b7c701edad808722efa70/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/5c8ef8c8f56a1cd323f31a182eac0f52/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.dday.myapplication.MainActivity
+ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/9d45e8a99738653487134ddeebf7eec1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/9d45e8a99738653487134ddeebf7eec1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dday/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/125647ef46a1a60fbd66a246d42e79ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/dday/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/125647ef46a1a60fbd66a246d42e79ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/0c959406b3741dc86e7c1b1e190c55d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/0c959406b3741dc86e7c1b1e190c55d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/8efda52e998b8d34466d207dd84cea84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/8efda52e998b8d34466d207dd84cea84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/b3cb8a47c7f6478c96e986cabcab15e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/b3cb8a47c7f6478c96e986cabcab15e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/31ffd2032f08aa9ef44b69c2ce5b94c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/31ffd2032f08aa9ef44b69c2ce5b94c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/b23b977b925bde3044209a7fcf550acd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/b23b977b925bde3044209a7fcf550acd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/8637a08d6db0ba3dd71caa3b18272630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/8637a08d6db0ba3dd71caa3b18272630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/7e5b2abaa22faf4849366377973bc5a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/7e5b2abaa22faf4849366377973bc5a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/3431a9e2afc800bfe0ab1c707377d58a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/3431a9e2afc800bfe0ab1c707377d58a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/c9c57ed01dcace1c1e0b443c2ec436bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/c9c57ed01dcace1c1e0b443c2ec436bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/5424219ecdeb8dc6e268e6c3c8dde985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/5424219ecdeb8dc6e268e6c3c8dde985/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/45b95c4f2de32fb2cd0c592f8753bbf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/45b95c4f2de32fb2cd0c592f8753bbf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/f284fc5e45bb15f3d85cd244c30bb8a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/f284fc5e45bb15f3d85cd244c30bb8a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/903febf7eabde14bb27908037a3b9a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/903febf7eabde14bb27908037a3b9a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/5c8ef8c8f56a1cd323f31a182eac0f52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/5c8ef8c8f56a1cd323f31a182eac0f52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/6ae18e34ae6b7c701edad808722efa70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/6ae18e34ae6b7c701edad808722efa70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/2c1bfdbbcbf528c6083889a4b88be80f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/2c1bfdbbcbf528c6083889a4b88be80f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e376183719245d395eac9663d84b9d39/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e376183719245d395eac9663d84b9d39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/915ea01c120f197ee67c3598a9d1252c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/915ea01c120f197ee67c3598a9d1252c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/275395a06e5d4a0f43d481bfc4e02de4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/275395a06e5d4a0f43d481bfc4e02de4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/06e40aa5490a90bdd38c3ad5483434c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/06e40aa5490a90bdd38c3ad5483434c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9d9d97dec756326778d61e7c84d32eb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9d9d97dec756326778d61e7c84d32eb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/01b882c81694164163aab362d4c49fb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/01b882c81694164163aab362d4c49fb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2844ea6fae6f4788e5d1872d209d6dd3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/dday/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2844ea6fae6f4788e5d1872d209d6dd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/28e5fd231431121b5a8d3ac1b05bfe76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/dday/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/28e5fd231431121b5a8d3ac1b05bfe76/AndroidManifest.xml:20:5-44
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+		ADDED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dday/AndroidProject/ScreenOrientationChange/app/src/main/AndroidManifest.xml

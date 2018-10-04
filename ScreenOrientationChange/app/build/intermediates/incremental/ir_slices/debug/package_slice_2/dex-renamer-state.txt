@@ -1,0 +1,4 @@
+#Fri Sep 21 05:24:08 BDT 2018
+base.0=/home/dday/AndroidProject/ScreenOrientationChange/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
